@@ -1,0 +1,5 @@
+jupyter
+requests
+folium
+geojson
+promp_toolkit==2.0.1
