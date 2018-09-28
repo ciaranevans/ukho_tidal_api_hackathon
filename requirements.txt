@@ -2,4 +2,8 @@ jupyter
 requests
 folium
 geojson
-promp_toolkit==2.0.1
+prompt_toolkit==2.0.1
+matplotlib
+numpy
+pandas
+plotly
